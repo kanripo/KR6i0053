@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:39.733885
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 本願藥師經古迹
 #+PROPERTY: CBETA_ID T38n1770
 #+PROPERTY: ID KR6i0053
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 38, No. 1770
 #+PROPERTY: VOL 38
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0053_T_002-0260b> ¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 本願藥師經古迹下¶
+本願藥師經古迹下¶
 ¶
 
 藥師瑠璃光如來本願功德經。¶
@@ -175,7 +174,7 @@
 有暴惡藥叉等神惱有情者。一切惡相皆即隱¶
 沒。而剎帝利灌頂王等壽命色力無病自在皆¶
 得增益。阿難。若帝后妃主儲君王子大臣輔相¶
-中宮婇女百官梨庶為病所苦及餘厄難。亦應¶
+中宮綵女百官梨庶為病所苦及餘厄難。亦應¶
 造立五色神幡燃燈續明放諸生命散雜色華¶
 燒眾名香。病得除愈眾難解脫。
 
