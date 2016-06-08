@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:39.733885
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:16
 #+TITLE: 本願藥師經古迹
 #+PROPERTY: CBETA_ID T38n1770
 #+PROPERTY: ID KR6i0053
